@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "verdant-bulwark-408509",
+  "private_key_id": "319b9247d5e3aec3200fb8e5eb75be285172d95c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBTbkLe9sh7fnT\nRA0cZ2dg/obMqmZHR+jxZWIrOF3GLBdtNQm5Ldw1fqYO6EONUoWXjolmnTcNHoVU\n1L0OYSWRBF3wdUMPHzLxa2dTOfHwmtHOb86Sp1PSR3cxjMoFWnjw+8nRN3/H2B/Z\nMs6KHgaPcdgqSNRmhZPsjB5cR0fdGWeledkEdJZoK+NkPtp/Ol15AbWIVwOjP8fZ\neY+8qtF7hXuaZYoUHGoP8B2lxGKVdd03odPZCQJ5mkqRlbDS7WytO4oNy92fY7vV\nrzZr6+cIRZlUgN2NJBC0JsJjYhlKgA2MKjpS3xDVHhs1Hc+ofUNm4xTg8oRvUZP2\nY58Ur11zAgMBAAECggEACBx4zVCPK2dO+lx6qFx2bA2CHohv7kHINojoi6O725ry\nCLUXCVwxR1VfJnT8kKuLy4ZBobqrGrPTKHIc1MOizej/AB4LiFDo1FSLa2SdEFmO\nwDjU1DaNP9+b0spzl7HqLUKDf3HyvLIG9Bg7rnQAFnjSd0PDFeI5CM4AYCLlkxNx\nCCX5UjAqFv04i8Vo0AfO1pDcnVg3M7Z5H5preWlGFwkSwLfqvYe6+/p0gB4UZkLF\nn0Pkmz3LIryKAkYaOgdwOSqtxhd3ZOMMG+HEDSE9PmSBQZpVgEY9RMi0rVebVo1z\nI4rV58q6f2ZFKbkOCWBaxL/fCw6hUY9dVAttODWzEQKBgQD59fzKJu2ytAZVvUxo\nGtJEnOoRnyCs/QyMeiWpMJf6wbRnM7cvp8O+DfyQ66ffBisNJLfc5fcYajw4G3E1\n8i7fBd6Ns5wmtbbAzC8FCE6wewHRmpXU5QmVeASG6zB3ud3hNbZv71hApp41RcvD\ndYtnyu1WWnW3S2OXfMwEoIks1QKBgQDF+U8e3KTWv/C4kVqngZRT2DXgxfJUy0fR\n/IH5LlrAWvEfZ7xeAxwda2HpNMBOR7B6nOt3TzFYC00/Ece3AJzUuAkdyxVTFiHP\nYlI2VShxO72TZiynOhgaguKbuJYbIHqLkghqQrMY94EmKxCItulHrZZwPhfbFhat\nZxcFK3PlJwKBgQDgerGTOnKt0k7+IQrFU5ESXXk4ahgGQxtJ7Uh1MVbLs7o4FJGn\nEpsPy6/O1lPkTr3LB/a3Qy8tlfqOyNZbBCxjzfmYeHz7pqWBb92qP1Or2kw/2PxG\nPYrl2Or336+fViSVZI965w/yv6/FV/EukBmqFOwgaQzel63RFhqC7UlEIQKBgFAo\nJE/jmF5W8rlYKPNfdNYJ2a67luWcNOUhruJcUWRGrhBAKTWLXsvOmaMZt686OYs7\nk98H0nvKf6lEoq9G8TjzlsVYX7b3ZBMaxRy4mBpYzOYsXXIMBIxfaC8SqrwrB1MR\nepTDks5OEB2LHDOuk39xGlMx4OjU5bOp5Nk0AcXLAoGAB7wYSEiANANTTZ7C0xCh\ncnkZ8e4rBhSkDv6yb1IftvAfL0NImJ92+cF+Cvcq8YO8Q5YDGQ8VcD7Wk1WDI4Kb\nUNtam9vlKPHckWnXROrcxCUP5txvwsu8I+s585FFfCkmzrun1JJzE5jF351B5z5V\njVDZOINZoB1PX3UNAH2XWHk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "serviceaccount1@verdant-bulwark-408509.iam.gserviceaccount.com",
+  "client_id": "112847357093571640959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serviceaccount1%40verdant-bulwark-408509.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
